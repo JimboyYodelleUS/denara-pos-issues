@@ -1,0 +1,156 @@
+.formContainer {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+  }
+  
+  .inputField {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .textareaField {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    height: 150px;
+  }
+  
+  .button {
+    background-color: #0070f3;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+
+  .buttonBugColor {
+    background-color: #d73a4a !important;
+    color: #fff !important;
+    padding: 12px 20px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+    border: 1px solid #000;
+  }
+
+  .buttonDocumentationColor {
+    background-color: #28a745 !important;
+    color: #fff !important;
+    padding: 12px 20px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+    border: 1px solid #000;
+  }
+
+  .buttonDuplicateColor {
+    background-color: #d4c5f9 !important;
+    color: black !important;
+    padding: 12px 20px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+    border: 1px solid #000;
+  }
+
+  .buttonEnhancementColor {
+    background-color: #a2eeef !important;
+    color: black !important;
+    padding: 12px 20px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+    border: 1px solid #000;
+  }
+
+  .buttonGoodFirstIssueColor {
+    background-color: #7057ff !important;
+    color: #fff !important;
+    padding: 12px 20px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+    border: 1px solid #000;
+  }
+
+  .buttonHelpWantedColor {
+    background-color: #860050 !important;
+    color: #fff !important;
+    padding: 12px 20px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+    border: 1px solid #000;
+  }
+
+  .buttonInvalidColor {
+    background-color: #e4e669 !important;
+    color: black !important;
+    padding: 12px 20px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+    border: 1px solid #000;
+  }
+
+  .buttonQuestionColor {
+    background-color: #d876e3 !important;
+    color: black !important;
+    padding: 12px 20px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+  }
+
+  .buttonWontfixColor {
+    background-color: #000000 !important;
+    color: #fff !important;
+    padding: 12px 20px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+    border: 1px solid #000;
+  }
+
+  .labelContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .transparentButton {
+    background-color: transparent;
+    color: #000;
+    padding: 12px 20px;
+    border: 1px solid #000;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
